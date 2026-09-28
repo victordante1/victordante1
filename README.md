@@ -1,8 +1,8 @@
-## Hi! I'm Victor!
+**`Hi! I'm Victor!`**
 
-- 🎨 I'm a Designer, UI/UX and front-end developer
-- 🔭 I'm currently building a game in DreamTide Games
-- 👯 I'm learning TypeScrypt
+I'm Victor Dante, a Designer working across UI/UX and Front-End, based in Maceió, Brazil. I turn briefs into visual communication that's clear and considered, and I'm building the front-end skills to understand and build the interfaces I design.
+
+---
 
 #### 💻 Languages and Technologies
 
@@ -47,9 +47,17 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victordante1/victordante1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victordante1/victordante1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victordante1/victordante1/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 📊 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordante1&show_icons=true)
 
