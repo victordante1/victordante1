@@ -55,9 +55,6 @@ I'm Victor Dante, a Designer working across UI/UX and Front-End, based in Macei�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victordante1/victordante1/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-### 📊 Estatísticas
 
 
 
