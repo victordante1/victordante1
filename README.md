@@ -59,5 +59,5 @@ I'm Victor Dante, a Designer working across UI/UX and Front-End, based in Macei�
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordante1&show_icons=true)
+
 
